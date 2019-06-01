@@ -124,9 +124,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar:
+avatar: true
 
-top_img: true # false or url of img
+top_img: https://s2.ax1x.com/2019/05/26/VVYoUU.jpg
 
 post_meta:
   date_type: created # created or updated
@@ -227,7 +227,7 @@ disqus:
 
 # Footer Settings
 # ---------------
-since: 2013
+since: 2014
 
 # footer_custom_text:
 
